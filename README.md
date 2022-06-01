@@ -29,3 +29,6 @@
 |데이터사이언스기초|3학점|
 |데이터베이스시스템|3학점|
 
+github address: [a_path][github]
+
+[github] : https://github.com/peteryu24
